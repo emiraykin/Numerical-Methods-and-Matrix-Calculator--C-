@@ -8,7 +8,7 @@
   + Trapez
 + Gregory-Newton Interpolation
 
-+ Inverse Matrix
-+ Gauss-Elemination Method 
-+ Gauss-Seidal Method      
++ Inverse of a Matrix
++ Gauss-Elemination Method (Matrix)
++ Gauss-Seidal Method  (Matrix)
  
